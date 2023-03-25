@@ -31,5 +31,11 @@
       "link": "/projects"
     }
   ],
-  "siteTest": "this is a test"
+  "siteTest": "this is a test",
+  "siteNavigation": [
+    {
+      "label": "Home",
+      "link": "/"
+    }
+  ]
 }
