@@ -30,5 +30,6 @@
       "label": "Projects",
       "link": "/projects"
     }
-  ]
+  ],
+  "siteTest": "this is a test"
 }
