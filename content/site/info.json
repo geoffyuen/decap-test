@@ -1,5 +1,20 @@
 {
   "sitename": "Steamy Deck News",
   "sitedescription": "Steam Deck News and Tips",
-  "sitelang": "en-US"
+  "sitelang": "en-US",
+  "nagivation": [
+    {
+      "link": "/",
+      "label": "Home"
+    },
+    {
+      "link": "/blog",
+      "label": "Blog"
+    },
+    {
+      "link": "/projects",
+      "label": "Project"
+    }
+  ],
+  "test": "this is a test"
 }
